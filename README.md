@@ -47,12 +47,11 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Beastsoul123/Beastsoul123/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beastsoul123)](https://github.com/Beastsoul123/github-readme-stats)
 </div>
 
 <br/><br/>
