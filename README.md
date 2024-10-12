@@ -18,8 +18,6 @@
 
 💬 Ask me about **Machine Learning,Python,SQL**
 
-⚡ Fun fact **Databases are used to create ai softwares like gpt as it stores data**
-
  </div>
  
 <div align="center"> 
