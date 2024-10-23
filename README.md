@@ -51,6 +51,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Beastsoul123&show_icons=true&theme=radical&locale=en&layout=compact" alt="Beastsoul123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Beastsoul123&theme=radical" alt="Beastsoul123" /></p>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=beastsoul123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 
 <hr/>
