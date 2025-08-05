@@ -41,6 +41,17 @@
 <br/>
 <hr/>
 <div align="center">
+
+```
+敵に勝つことは容易なり。
+己に勝つことこそ、最も難し。
+(To defeat your enemy is easy.
+But to defeat yourself is the most difficult task.)
+
+```
+
+</div>
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Beastsoul123/Beastsoul123/output/github-contribution-grid-snake.svg" />
